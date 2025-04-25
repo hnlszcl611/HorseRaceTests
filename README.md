@@ -1,6 +1,6 @@
 # Horse Race Tests
 
-[Horse Race Tests](screen-1.jpg)
+[Horse Race Tests](/screen-1.jpg)
 
 # Live Site: [Horse Race Tests](https://horseracetests.io)
 
