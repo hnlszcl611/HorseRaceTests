@@ -11,3 +11,21 @@ In the realm of experimental gaming spectacles, few projects have sparked as muc
 
 The game’s unpredictability birthed passionate fandoms for individual horses, each color developing its own lore. The cyan horse, for instance, became a running gag for its perpetual last-place finishes, with users humorously lamenting its “cursed” streak. Conversely, the orange contender Jovial Merryment emerged as a fan-favorite underdog-turned-champion, celebrated for its improbable multi-race dominance. Between daily race debates and viral jokes, Horse Race Trials transcended its prototype status, evolving into a cultural touchstone for collaborative, absurdist gaming hype.
 
+Horse race tests horse names:
+
+Bullet'n Board (Blue)
+
+CyanDoor Knob (Brown)
+
+Downtown Skybox (Gray)
+
+Jovial Merryment (Orange)
+
+Comely Material Morning (Pink)
+
+Resolute Mind Afternoon (Red)
+
+Superstitional Realism (White)
+
+Yellow
+
